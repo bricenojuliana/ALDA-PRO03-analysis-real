@@ -4,7 +4,7 @@ Este proyecto analiza la relación entre el uso de redes sociales y la productiv
 
 ## Origen del dataset
 
-El dataset utilizado proviene de Kaggle y se titula **"Social Media Usage vs Productivity"**. Fue publicado por el usuario [Yash Gadhiya](https://www.kaggle.com/datasets/yashgadhiya/social-media-usage-vs-productivity) y contiene respuestas de una encuesta relacionada con:
+El dataset utilizado proviene de Kaggle y se titula **"[Social Media Usage vs Productivity](https://www.kaggle.com/datasets/mahdimashayekhi/social-media-vs-productivity)"**. Fue publicado por el usuario Mahdi Mashayekhi y contiene respuestas de una encuesta relacionada con:
 
 - Tiempo de uso de redes sociales
 - Productividad percibida y real
