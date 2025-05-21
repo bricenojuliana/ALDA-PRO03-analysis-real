@@ -1,0 +1,5 @@
+pandas
+auto_mix_prep
+pytest
+seaborn
+matplotlib

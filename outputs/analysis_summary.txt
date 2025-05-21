@@ -1,0 +1,34 @@
+=== Estadísticas descriptivas ===
+                age  daily_social_media_time  number_of_notifications  work_hours_per_day  perceived_productivity_score  actual_productivity_score  stress_level   sleep_hours  screen_time_before_sleep  breaks_during_work  coffee_consumption_per_day  days_feeling_burnout_per_month  weekly_offline_hours  job_satisfaction_score
+count  30000.000000             27235.000000             30000.000000        30000.000000                  28386.000000               27635.000000  28096.000000  27402.000000              27789.000000        30000.000000                30000.000000                    30000.000000          30000.000000            27270.000000
+mean      41.486867                 3.113418                59.958767            6.990792                      5.510488                   4.951805      5.514059      6.500247                  1.025568            4.992200                    1.999300                       15.557067             10.360655                4.964901
+std       13.835221                 2.074813                 7.723772            1.997736                      2.023470                   1.883378      2.866344      1.464004                  0.653355            3.173737                    1.410047                        9.252956              7.280415                2.121194
+min       18.000000                 0.000000                30.000000            0.000000                      2.000252                   0.296812      1.000000      3.000000                  0.000000            0.000000                    0.000000                        0.000000              0.000000                0.000000
+25%       30.000000                 1.639566                55.000000            5.643771                      3.757861                   3.373284      3.000000      5.493536                  0.528490            2.000000                    1.000000                        8.000000              4.541872                3.363580
+50%       41.000000                 3.025913                60.000000            6.990641                      5.525005                   4.951742      6.000000      6.498340                  1.006159            5.000000                    2.000000                       16.000000             10.013677                4.951049
+75%       53.000000                 4.368917                65.000000            8.354725                      7.265776                   6.526342      8.000000      7.504143                  1.477221            8.000000                    3.000000                       24.000000             15.300809                6.581323
+max       65.000000                17.973256                90.000000           12.000000                      8.999376                   9.846258     10.000000     10.000000                  3.000000           10.000000                   10.000000                       31.000000             40.964769               10.000000
+
+=== Correlaciones con productividad real (actual_productivity_score) ===
+perceived_productivity_score      0.964319
+job_satisfaction_score            0.882965
+age                               0.010575
+screen_time_before_sleep          0.002399
+stress_level                      0.001339
+coffee_consumption_per_day        0.001156
+number_of_notifications           0.000457
+work_hours_per_day               -0.000113
+breaks_during_work               -0.004203
+weekly_offline_hours             -0.004839
+sleep_hours                      -0.007868
+daily_social_media_time          -0.010924
+days_feeling_burnout_per_month   -0.011001
+
+=== Promedio de productividad real por tipo de trabajo (job_type) ===
+  job_type  actual_productivity_score
+        IT                   5.007447
+Unemployed                   4.985443
+   Finance                   4.965829
+ Education                   4.925198
+    Health                   4.922816
+   Student                   4.904264
