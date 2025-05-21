@@ -1,8 +1,3 @@
-Aquí tienes el `README.md` actualizado, incluyendo una sección que explica de dónde se obtuvo el dataset:
-
----
-
-```markdown
 # Social Media vs Productivity - Data Analysis
 
 Este proyecto analiza la relación entre el uso de redes sociales y la productividad laboral. Está organizado en módulos separados para la carga, limpieza y análisis de datos, con pruebas unitarias y medición de cobertura de código.
